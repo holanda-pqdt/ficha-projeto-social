@@ -43,11 +43,8 @@ As imagens estão organizadas na pasta `/assets/images/`, e os estilos em `/asse
 
 ## 🔗 Acesso ao Projeto
 
-**Repositório no GitHub:**  
 [🔗 Clique aqui para acessar](https://github.com/holanda-pqdt/ficha-projeto-social)
 
----
- -
 ---
 
 ##  Objetivo Acadêmico ##
@@ -56,4 +53,9 @@ Este projeto foi desenvolvido como parte da disciplina de **Desenvolvimento Web*
 
 - Estruturação semântica com HTML5
 - Criação de formulários interativos
-- Uso de ele
+- Uso de elementos multimídia
+- Organização de pastas e validação pelo W3C
+
+- ## ✅ Validação
+
+Todos os arquivos `.html` foram validados com sucesso no [W3C Validator](https://validator.w3.org/).
